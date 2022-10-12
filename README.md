@@ -13,6 +13,12 @@ Data set from Maven Market, a global supermarket chain for the year of 1997-1998
       MavenMarket_Stores.csv
       MavenMarket_Transactions_1997.csv
       MavenMarket_Transactions_1998.csv
+      
+      
  #2: Build a Relational Data Model
+ 
+ 
  #3: Add Calculated Fields with DAX
+ 
+ 
  #4: Design Interactive Power BI Reports
